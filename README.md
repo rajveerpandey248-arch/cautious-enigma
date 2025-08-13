@@ -1,2 +1,14 @@
-# cautious-enigma
-people can share their problems and solutions regarding their husband/wifes , gf/bf , and who are tensed due to there extra marital affairs
+# HeartTalks
+
+A supportive, anonymous space to share relationship problems and solutions.
+
+## Run locally
+```bash
+npm install
+npm run dev
+```
+
+## Build
+```bash
+npm run build
+```
